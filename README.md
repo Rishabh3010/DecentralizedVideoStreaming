@@ -21,11 +21,4 @@ It is a decntralized Video Streaming Platform built on top of Etherium Blockchai
 - [Ethers.js](https://docs.ethers.io/v5/)
 - [Infura IPFS](https://infura.io/product/ipfs)
 
-<!-- GETTING STARTED -->
-
-
-### Contributor
-
-- [Rishabh](https://linkedin.com/rishu1999)
-
 [product-screenshot]: screenshot.png
