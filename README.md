@@ -11,7 +11,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-It is a deentralized Video Streaming Platform built on top of Etherium Blockchain, that allows users to create, share and watch videos, without worrying about their privacy.
+It is a decntralized Video Streaming Platform built on top of Etherium Blockchain, that allows users to create, share and watch videos, without worrying about their privacy.
 
 ### Built With
 
